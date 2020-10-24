@@ -1,2 +1,0 @@
-# Earthquake_Mapping
- 
